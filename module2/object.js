@@ -23,3 +23,7 @@ let capAmerica = {
 }
 
 console.log(capAmerica);
+console.log(capAmerica.Name);
+
+
+capAmerica.sayHi();
